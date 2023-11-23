@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Pfannkuchen",
+    "image_url": "placeholder_for_main_image_url",
+    "calories": 540,
+    "prep_time_minutes": 10,
+    "nutritional_values": {
+      "protein": "value_in_grams",
+      "fat": "value_in_grams",
+      "carbohydrates": "value_in_grams",
+      "fiber": "value_in_grams"
+    },
+    "ingredients": [
+      {
+        "ingredient": "Mehl",
+        "amount": "100g",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Ei",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Milch",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Zucker",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Butter",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Salz",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      }
+    ]
+  },
+  {
+    "name": "Vegane Pizza",
+    "image_url": "placeholder_for_vegan_pizza_image_url",
+    "calories": "value_in_kcal",
+    "prep_time_minutes": "value_in_minutes",
+    "nutritional_values": {
+      "protein": "value_in_grams",
+      "fat": "value_in_grams",
+      "carbohydrates": "value_in_grams",
+      "fiber": "value_in_grams"
+    },
+    "ingredients": [
+      {
+        "ingredient": "Veganer Pizzateig",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Tomatensauce",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Veganer Käse",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Frische Tomaten",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Oliven",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Basilikum",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Oregano",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Zwiebeln",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Paprika",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      },
+      {
+        "ingredient": "Pilze",
+        "amount": "value_and_unit",
+        "image_url": "placeholder_for_ingredient_image_url"
+      }
+    ]
+  }
+]
